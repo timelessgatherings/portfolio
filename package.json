@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "nodemailer": "^7.0.10"
+  }
+}
+
+
